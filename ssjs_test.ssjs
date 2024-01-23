@@ -1,3 +1,9 @@
+  <title>MKT Vane - {{mcpm:CompanyName}}</title>
+<h1>Marketing Vane - {{mcpm:CompanyName}}</h1>
+
+<!--<script runat="server" src="https://mcw0x-67whm-qnp7x4lw38wx2xm8.pub.sfmc-content.com/tgosh03wygk"></script>-->
+
+<script runat="server">
   function statusCellStyle(autoStatusNum){
     var cellStyle = 'greenStyle';
     if(autoStatusNum == -1 || autoStatusNum == 0 || autoStatusNum == 4
@@ -554,3 +560,8 @@
       };
     }
   }
+  //---------------------------------------FIN API REST-------------------------------------------------------------------------------
+</script>
+<p style="text-align:right;">
+  by redk v0.5
+</p>
